@@ -21,8 +21,6 @@ An AI/ML engineer with a passion for data science, machine learning, and compute
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000style=flat-square)&nbsp;
-!LaTeX
-![Markup]
 
 
 #### ML/DL
@@ -65,5 +63,5 @@ An AI/ML engineer with a passion for data science, machine learning, and compute
 </p>
 
 <!-- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> | -->
-| ------------- | ------------- |
+<!-- | ------------- | ------------- | -->
 
