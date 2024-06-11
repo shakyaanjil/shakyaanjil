@@ -20,7 +20,7 @@ An AI/ML engineer with a passion for data science, machine learning, and compute
 #### Languages:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000style=flat-square)&nbsp;
+![JavaScript](https://https://img.shields.io/badge/JavaScript-8A2BE2)&nbsp;
 
 
 #### ML/DL
